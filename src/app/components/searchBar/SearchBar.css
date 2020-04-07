@@ -1,0 +1,12 @@
+.searchIcon {
+    font-size: 33px !important;
+    color: #428FD6;
+}
+
+.search{
+    background: #fff;
+    height: 6vh !important;
+    border-radius: 5px;
+    margin-left: 2vw !important;
+    margin-top: 1vw !important;
+}

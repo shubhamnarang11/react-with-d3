@@ -1,0 +1,12 @@
+.table {
+  background-color: #fff;
+  border: 1px solid black;
+  margin: 2%;
+  width: 95% !important;
+}
+
+.row-hovered {
+  background-color: #428fd6;
+  color: #fff !important;
+  cursor: pointer;
+}

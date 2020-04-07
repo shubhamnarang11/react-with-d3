@@ -1,0 +1,36 @@
+.bar {
+  fill: #5f89ad;
+}
+
+.axis {
+  font-size: 13px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  display: none;
+}
+
+.label {
+  font-size: 13px;
+}
+
+.thin-bar-higher-value {
+  fill: green;
+}
+
+.thick-bar-higher-value {
+  fill: rgb(133, 233, 133);
+  opacity: 0.6;
+}
+
+.thin-bar-lesser-value {
+  fill: red;
+}
+
+.thick-bar-lesser-value {
+  fill: rgb(243, 119, 119);
+  opacity: 0.6;
+}
+
